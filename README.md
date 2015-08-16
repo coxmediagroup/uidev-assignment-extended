@@ -32,6 +32,15 @@ uidev-assignment/js/uidev-assignment-data.js
 
 You will render the headline list content are of the web page via an Angluar directive (ng-repeat).  Use the Angular directive ng-class to format the background color of the list.
 
+####Bootstrap framework
+
+Your webpage will support the following breakpoints.  Make sure your page displays content correctly (as indicated in the mockups) at these breakpoints.
+
+- 1284px wide (requires global variable change, see Less section below)
+- 1024px wide (requires global variable change, see Less section below)
+- 768px wide
+- 480px wide
+
 ####Less preprocessor
 
 You will be modifying some global variables and recompiling the bootstrap CSS files.  
@@ -41,7 +50,6 @@ You will be modifying some global variables and recompiling the bootstrap CSS fi
 	- change the gutter width to 20px
 	- change the large screen width (screen-lg) to 1284px
 	- change the medium screen width (screen-md) to 1024px
-
 
 ####Design attributes
 
@@ -56,7 +64,6 @@ Use the Google font Oswald for the web page headers.  Use the default Bootstap f
 ####Evaluation of assignment
 
 You will be evaluated on your HTML, CSS, and JavaScript code quality as well as your attention to detail in completing the code test.
-
 
 ####How you should deliver your completed assignment
 
