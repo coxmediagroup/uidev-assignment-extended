@@ -8,7 +8,7 @@ This assginment requires knowledge in the following areas:
 - CSS3
 - Bootstrap framework
 - Less preprocessor
-	- modifying some global variables and recompiling the bootstrap CSS files.
+	- you will be modifying some global variables and recompiling the bootstrap CSS files.
 - Grunt or other task-based command line build tool of your choice 
 	- you will be removing all Javascript components not being used and recompiling the Bootstrap JS files.
 - AngularJS
@@ -16,9 +16,9 @@ This assginment requires knowledge in the following areas:
 
 ##Assignment criteria
 
-Create a responsive webpage based on the graphical mockups provided.
+Create a responsive webpage based on the graphical mockups provided.  You will be coding only the header, menu and some of the top content on the page; not the entire page. 
 
--	Using the provided feed data, construct a page that is formatted to match the included mockups located in the comps folder.
+-	Using the provided feed data, construct a webpage that is formatted to match the included mockups located in the comps folder.
 - You will only be using one HTML document for this assignment.
 - Place your HTML in index.html. All other resources should be saved where appropriate in the uidev-assignment folder hierarchy.
 
@@ -32,6 +32,17 @@ uidev-assignment/js/uidev-assignment-data.js
 
 You will render the headline list content are of the web page via an Angluar directive (ng-repeat).  Use the Angular directive ng-class to format the background color of the list.
 
+####Less preprocessor
+
+You will be modifying some global variables and recompiling the bootstrap CSS files.  
+
+- Add your global variable changes to the file uidev-assignment/less/variables-newstalk.less
+- The following global variable changes need to be made:
+	- change the gutter width to 20px
+	- change the large screen width (screen-lg) to 1284px
+	- change the medium screen width (screen-md) to 1024px
+
+
 ####Design attributes
 
 - For most visual elements, you are provided with details on styling below. 
@@ -40,7 +51,7 @@ You will render the headline list content are of the web page via an Angluar dir
 
 ####Fonts
 
-Use the Google font Oswald for the web page headers.  Use the default Bootstap framework font for the web page body text, however change the default font size for the body to 16px.  This will require changeing a global variable and recompiling your bootstrap CSS file.
+Use the Google font Oswald for the web page headers.  Use the default Bootstap framework font for the web page body text, however change the default font size for the body to 16px.  This will require changing a global variable and recompiling your bootstrap CSS file.
 
 ####Evaluation of assignment
 
@@ -49,7 +60,7 @@ You will be evaluated on your HTML, CSS, and JavaScript code quality as well as 
 
 ####How you should deliver your completed assignment
 
-The preferred method of delivery via github. Publicly fork this repository, complete the assignment, then send a pull request. If you require an alternate delivery method, please contact your hiring manager.
+The preferred method of delivery via Github. Publicly fork this repository, complete the assignment, then send a pull request. If you require an alternate delivery method, please contact your hiring manager.
 
 ####Anything else?
 
