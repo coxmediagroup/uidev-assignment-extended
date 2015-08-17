@@ -2,15 +2,15 @@
 
 This is an HTML/CSS assignment for UI Developers interviewing at Cox Media Group.  As a CMG manager, I want to gauge your skill, code completeness and accuracy, as well as your affinity for standards-based development.
 
-This assginment requires knowledge in the following areas:
+This assignment requires knowledge in the following areas:
 
 - HTML5
 - CSS3
 - Bootstrap framework
 - Less preprocessor
-	- you will be modifying some global variables and recompiling the bootstrap CSS files.
+	- You will be modifying some global variables and recompiling the bootstrap CSS files.
 - Grunt or other task-based command line build tool of your choice 
-	- you will be removing all Javascript components not being used and recompiling the Bootstrap JS files.
+	- You will be removing all JavaScript components not being used and recompiling the Bootstrap JS files.
 - AngularJS
 - Google fonts
 
@@ -26,11 +26,11 @@ Create a responsive webpage based on the graphical mockups provided.  You will b
 
 ####Feed data
 
-Your page should load data, into the More Stories content area of the page, from the provided datafile. No content should be hard-coded into your document.  
+Your page should load data, into the More Stories content area of the page, from the provided data file. No content should be hard-coded into your document.  
 
 uidev-assignment/js/uidev-assignment-data.js
 
-You will render the headline list content are of the web page via an Angluar directive (ng-repeat).  Use the Angular directive ng-class to format the background color of the list.
+You will render the headline list content are of the web page via an Angular directive (ng-repeat).  Use the Angular directive ng-class to format the background color of the list.
 
 ####Bootstrap framework
 
@@ -59,7 +59,7 @@ You will be modifying some global variables and recompiling the bootstrap CSS fi
 
 ####Fonts
 
-Use the Google font Oswald for the web page headers.  Use the default Bootstap framework font for the web page body text, however change the default font size for the body to 16px.  This will require changing a global variable and recompiling your bootstrap CSS file.
+Use the Google font Oswald for the web page headers.  Use the default Bootstrap framework font for the web page body text, however change the default font size for the body to 16px.  This will require changing a global variable and recompiling your bootstrap CSS file.
 
 ####Evaluation of assignment
 
@@ -67,7 +67,7 @@ You will be evaluated on your HTML, CSS, and JavaScript code quality as well as 
 
 ####How you should deliver your completed assignment
 
-The preferred method of delivery via Github. Publicly fork this repository, complete the assignment, then send a pull request. If you require an alternate delivery method, please contact your hiring manager.
+The preferred method of delivery via GitHub. Publicly fork this repository, complete the assignment, then send a pull request. If you require an alternate delivery method, please contact your hiring manager.
 
 ####Anything else?
 
