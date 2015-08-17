@@ -49,7 +49,9 @@ You will be modifying some global variables and recompiling the bootstrap CSS fi
 - The following global variable changes need to be made:
 	- change the gutter width to 20px
 	- change the large screen width (screen-lg) to 1284px
+	- change the large screen container width (container-large-desktop) to 1264px
 	- change the medium screen width (screen-md) to 1024px
+	- change the medium screen container width (container-desktop) to 1004px
 
 ####Design attributes
 
