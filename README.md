@@ -10,7 +10,7 @@ This assignment requires knowledge in the following areas:
 - Less preprocessor
 	- You will be modifying some global variables and recompiling the bootstrap CSS files.
 - Grunt or other task-based command line build tool of your choice 
-	- You will be removing all JavaScript components not being used and recompiling the Bootstrap JS files.
+	- You will be removing all JavaScript components, not being used, and recompiling the Bootstrap JS files.
 - AngularJS
 - Google fonts
 
