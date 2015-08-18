@@ -55,9 +55,8 @@ You will be modifying some global variables and recompiling the bootstrap CSS fi
 
 ####Design attributes
 
-- For most visual elements, you are provided with details on styling below. 
 - Implement the browser tab icon located in the img folder.
-- Other visual elements that are not detailed below will require you to use your best judgement to match the mockups provided.
+- Create all visual elements of the web page based on the mockups located in the comps folder.  Use your best judgement to match the mockups provided.
 - Place all CSS in the external stylesheet unidev-assignment/css/styles.css.
 
 ####Fonts
