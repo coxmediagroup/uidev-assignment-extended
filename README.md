@@ -26,7 +26,7 @@ Create a responsive webpage based on the graphical mockups provided.  You will b
 
 ####Feed data
 
-Your page will load data into the More Stories content area of the page from the controller defined in /js/uidev-assignment-data.js.   
+Your page will load data into the More Stories content area of the page from the Angular controller defined in /js/uidev-assignment-data.js.   
 
 You will render the story images and headlines via the ng-repeat Angular directive.  
 
