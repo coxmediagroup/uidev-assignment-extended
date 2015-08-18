@@ -26,11 +26,10 @@ Create a responsive webpage based on the graphical mockups provided.  You will b
 
 ####Feed data
 
-Your page should load data, into the More Stories content area of the page, from the provided data file. No content should be hard-coded into your document.  
+Your page will load data into the More Stories content area of the page from the controller defined in /js/uidev-assignment-data.js.   
 
-uidev-assignment/js/uidev-assignment-data.js
+You will render the story images and headlines via the ng-repeat Angular directive.  
 
-You will render the headline list content are of the web page via an Angular directive (ng-repeat).  Use the Angular directive ng-class to format the background color of the list.
 
 ####Bootstrap framework
 
