@@ -26,7 +26,7 @@ Create a responsive webpage based on the graphical mockups provided.  You will b
 
 ####Feed data
 
-Your page will load data into the More Stories content area of the page via the dynamic data-binding library of your choide.
+Your page will load data into the More Stories content area of the page via the dynamic data-binding library of your choice.
 
 If you choose to use AngularJS, we have provided a  controller that is defined in /js/uidev-assignment-data.js.   
 
