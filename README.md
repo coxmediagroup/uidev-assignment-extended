@@ -7,7 +7,7 @@ This assignment requires knowledge in the following areas:
 - HTML5
 - CSS3
 - Bootstrap framework
-- Less preprocessor
+- Less or Sass preprocessor
 	- You will be modifying some global variables and recompiling the bootstrap CSS files.
 - Grunt or other task-based command line build tool of your choice 
 	- You will be removing all JavaScript components, not being used, and recompiling the Bootstrap JS files.
@@ -42,7 +42,7 @@ Your webpage will support the following breakpoints.  Make sure your page displa
 - 768px wide
 - 480px wide
 
-####Less preprocessor
+####Less or Sass preprocessor
 
 You will be modifying some global variables and recompiling the bootstrap CSS files.  
 
