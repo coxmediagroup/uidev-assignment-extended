@@ -11,7 +11,7 @@ This assignment requires knowledge in the following areas:
 	- You will be modifying some global variables and recompiling the bootstrap CSS files.
 - Grunt or other task-based command line build tool of your choice 
 	- You will be removing all JavaScript components, not being used, and recompiling the Bootstrap JS files.
-- AngularJS
+- AngularJS or dynamic data-binding library of your choice
 - Google fonts
 
 ##Assignment criteria
@@ -26,9 +26,11 @@ Create a responsive webpage based on the graphical mockups provided.  You will b
 
 ####Feed data
 
-Your page will load data into the More Stories content area of the page from the Angular controller defined in /js/uidev-assignment-data.js.   
+Your page will load data into the More Stories content area of the page via the dynamic data-binding library of your choide.
 
-You will render the story images and headlines via the ng-repeat Angular directive.  
+If you choose to use AngularJS, we have provided a  controller that is defined in /js/uidev-assignment-data.js.   
+
+You will render the story images and headlines via the ng-repeat Angular directive or the data-binding library of your choice.  
 
 
 ####Bootstrap framework
