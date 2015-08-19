@@ -1,4 +1,4 @@
-# uidev-assignment
+# uidev-assignment-extended
 
 This is an HTML/CSS assignment for UI Developers interviewing at Cox Media Group.  As a CMG manager, I want to gauge your skill, code completeness and accuracy, as well as your affinity for standards-based development.
 
@@ -20,7 +20,7 @@ Create a responsive webpage based on the graphical mockups provided.  You will b
 
 -	Using the provided feed data, construct a webpage that is formatted to match the included mockups located in the comps folder.
 - You will only be using one HTML document for this assignment.
-- Place your HTML in index.html. All other resources should be saved where appropriate in the uidev-assignment folder hierarchy.
+- Place your HTML in index.html. All other resources should be saved where appropriate in the uidev-assignment-extended folder hierarchy.
 
 ###Directions:
 
@@ -46,7 +46,7 @@ Your webpage will support the following breakpoints.  Make sure your page displa
 
 You will be modifying some global variables and recompiling the bootstrap CSS files.  
 
-- Add your global variable changes to the file uidev-assignment/less/variables-newstalk.less
+- Add your global variable changes to the file uidev-assignment-extended/less/variables-newstalk.less
 - The following global variable changes need to be made:
 	- change the gutter width to 20px
 	- change the large screen width (screen-lg) to 1284px
