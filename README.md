@@ -22,6 +22,10 @@ Create a responsive webpage based on the graphical mockups provided.  You will b
 
 ###Directions:
 
+####Bootstrap framework
+
+Your webpage will support the four breakpoints indicated in the mockups located in the unidev-assignment/comps folder.
+
 ####Feed data
 
 Your page will load data into the More Stories content area of the page via the dynamic data-binding library of your choice.
@@ -33,7 +37,7 @@ Your page will load data into the More Stories content area of the page via the 
 
 ####Fonts
 
-Use a Google font for the web page headers. Use the default Bootstrap framework font for the web page body text.
+Use the Google font Oswald for the web page headers.  Use the default Bootstrap framework font for the web page body text.
 
 ####Evaluation of assignment
 
