@@ -28,7 +28,9 @@ Your webpage will support the four breakpoints indicated in the mockups located 
 
 ####Feed data
 
-Your page will load data into the More Stories content area of the page via the dynamic data-binding library of your choice.
+Your page will load data into the More Stories content area of the page via the dynamic data-binding library of your choice using the following JSON datafeed:  
+
+https://api.myjson.com/bins/2rbnq
 
 ####Design attributes
 
