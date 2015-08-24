@@ -28,7 +28,7 @@ Your webpage will support the four breakpoints indicated in the mockups located 
 
 ####Feed data
 
-Your page will load data into the More Stories content area of the page via the dynamic data-binding library of your choice using the following JSON datafeed:  
+Your page will load data into the More Stories content area of the page (see comps) via the dynamic data-binding library of your choice using the following JSON datafeed.  It is acceptable, for the purposes of this assignment, to stretch the thumbnails via CSS to match the thumbnail dimensions in the comps.  
 
 https://api.myjson.com/bins/2rbnq
 
